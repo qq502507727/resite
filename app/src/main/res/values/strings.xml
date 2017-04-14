@@ -1,0 +1,24 @@
+<resources>
+    <string name="onoff_LED">开关灯</string>
+    <string name="set_group_LED">设置组灯</string>
+    <string name="set_red_LED">红灯</string>
+    <string name="set_green_LED">绿灯</string>
+    <string name="set_blue_LED">蓝灯</string>
+    <string name="set_motor_speed">setMotor</string>
+    <string name="Infrared">Infrared</string>
+    <string name="Temperature">温度</string>
+    <string name="Humidity">湿度</string>
+    <string name="waiting_device_ready">等待设备</string>
+    <string name="disconnect">disconnect</string>
+    <string name="hardwareInfo">hardwareInfo</string>
+    <string name="set_info_successful">Successful</string>
+    <string name="set_info_failed">set_info_failed</string>
+    <string name="getStatu">获取设备状态</string>
+    <string name="set_Alias_Remark">修改别名</string>
+    <string name="alias_hint">请输入别名</string>
+    <string name="remark_hint">请输入备注</string>
+    <string name="setDeviceInfo">设置设备信息</string>
+    <string name="getHardwareInfo">获取硬件信息</string>
+    <string name="blackboard">黑板</string>
+    <string name="tv_pass_login"> 跳过登录</string>
+</resources>
